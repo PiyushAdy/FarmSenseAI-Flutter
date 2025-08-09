@@ -114,3 +114,5 @@ lib/
 ├── plant_dashboard_screen.dart # Plant-specific dashboard and AI companion chat
 └── social_market.dart          # Marketplace screens for buying and selling produce
 ```
+## Credits 
+- Concept & UI Design [Jatin Solanki](https://github.com/Solanki-Jatin)
