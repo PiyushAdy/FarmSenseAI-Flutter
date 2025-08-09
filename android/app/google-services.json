@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "294326491041",
+    "project_id": "farmsenseai-68987",
+    "storage_bucket": "farmsenseai-68987.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:294326491041:android:4fad3e9b3b0f72d5431de0",
+        "android_client_info": {
+          "package_name": "com.example.farmsense_ai"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "294326491041-8k63c5fk7d3fcdaf4ve0uitf3ms86omb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFdBQxK0aOYnXoA8-gwpI-9qvMtPe27Ik"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "294326491041-8k63c5fk7d3fcdaf4ve0uitf3ms86omb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
